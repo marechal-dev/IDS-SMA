@@ -1,0 +1,16 @@
+{
+  "name": "data-miner",
+  "version": "1.0.0",
+  "description": "Multi-threaded Data Miner",
+  "type": "module",
+  "main": "main.mjs",
+  "scripts": {
+    "parse": "node main.mjs"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Pietro Piva Vieira",
+    "email": "pietro.developer@gmail.com"
+  },
+  "license": "MIT"
+}
